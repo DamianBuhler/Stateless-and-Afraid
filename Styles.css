@@ -1,0 +1,29 @@
+.title{
+    margin-left: 25%;
+    font-size: 50px;
+    color: rgba(0, 0, 0, .5);
+}
+.option1{
+    font-size: 25px;
+    
+}
+.row {
+    display: flex;
+}
+.column {
+    flex: 1;
+}
+ol{
+    padding: 5px 10px;
+    margin: 0;
+    display: inline-block;
+}
+a{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover{
+    color: slategrey;
+}
